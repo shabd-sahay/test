@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shabd Sahay
-Skills: HTML, CSS, JS, React.js, Python, Django, Flask, MySQL, C, C++
-Email: shabdsahay.mdb@gmail.com
-{{/user}}
